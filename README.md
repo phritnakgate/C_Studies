@@ -1,2 +1,2 @@
-# C_Studies
+# ©️Studies
 My repository for C language study.
