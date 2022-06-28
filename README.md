@@ -1,2 +1,2 @@
 # ©️Studies
-My repository for C language study.
+Learn C, C++
